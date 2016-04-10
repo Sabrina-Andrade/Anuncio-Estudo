@@ -1,0 +1,57 @@
+.centro {
+    width: 50%;
+    border:6px solid black;
+    margin: 0px auto;
+}
+
+.centro2 {
+    width: 50%;
+    border:6px solid black;
+    margin: 0px auto;
+    color:burlywood;
+    background-color: black; 
+    
+}
+
+h1 {
+    font-size: 38;
+    font-style: bold;
+    color: black;
+    font-family: sans-serif; 
+    text-align: center;
+    image-orientation: left;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.anuncio {
+    border-bottom-color: black;
+    border-width:thick;
+    background-color: burlywood;
+}
+
+.alt {
+    margin-left: auto;
+}
+
+#ex2 {
+    text-align: justify;
+    color: black;
+    font-family: sans-serif;   
+}
+
+alt {
+    background-color: burlywood;
+    
+}
+
